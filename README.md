@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tamaralues
-- 👀 I’m interested in fronten development
+- 👀 I’m interested in frontend development
 - 🌱 I’m currently learning UI and UX skills
 
 <!---
